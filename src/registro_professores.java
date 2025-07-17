@@ -61,7 +61,7 @@ public class registro_professores {
         int resposta = 0;
 
         while(resposta != 4){
-            System.out.println("------------sistema da escola------------");
+            System.out.println("------------editar informaçoes------------");
             System.out.println("digite o que deseja fazer");
             System.out.println(" 1. realizar cadastro de professor \n 2. mostrar lista de professores \n 3. editar as informaçoes de um professor \n 4. sair");
             resposta = sc.nextInt();
